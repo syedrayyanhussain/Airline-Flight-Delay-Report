@@ -5,7 +5,7 @@
 
 
 ## 📊 Project Overview
-This interactive Power BI dashboard was built during the [Maven Analytics Crash Course](https://mavenanalytics.io/crash-courses/go-from-data-to-dashboard-in-15-minutes-in-power-bi). The objective was to transform raw airline flight data into a compelling, data-driven dashboard within 15 minutes.
+This interactive Power BI dashboard was built during the [Maven Analytics Crash Course](https://mavenanalytics.io/crash-courses/go-from-data-to-dashboard-in-15-minutes-in-power-bi). The objective was to transform raw airline flight data into a compelling, data-driven dashboard.
 
 ## 🚀 Key Features
 - Visual summary of total, delayed, and canceled flights
